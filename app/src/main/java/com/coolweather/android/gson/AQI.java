@@ -7,3 +7,4 @@ public class AQI {
         public String pm25;
     }
 }
+

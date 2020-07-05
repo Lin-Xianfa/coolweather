@@ -1,7 +1,6 @@
 package com.coolweather.android.gson;
 
 import com.google.gson.annotations.SerializedName;
-
 public class Forecast {
     public String date;
     @SerializedName("tmp")
@@ -16,5 +15,4 @@ public class Forecast {
         @SerializedName("txt_d")
         public String info;
     }
-
 }

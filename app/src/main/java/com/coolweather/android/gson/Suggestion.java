@@ -20,5 +20,4 @@ public class Suggestion {
         @SerializedName("txt")
         public String info;
     }
-
 }
